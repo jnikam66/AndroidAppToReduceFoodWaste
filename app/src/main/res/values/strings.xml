@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NoFoodWaste</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_choose_category">choose_category</string>
+    <string name="title_activity_donar_main_screen">donar_main_screen</string>
+    <string name="title_activity_donar_details">Donar_details</string>
+    <string name="title_activity_thankyou">Thankyou</string>
+    <string name="thnxdonator">Your food donation has been accepted and one of our users will contact you shortly to pick it up .</string>
+    <string name="title_activity_include_toolbar">include_toolbar</string>
+    <string name="title_activity_availabledonations">availabledonations</string>
+</resources>
